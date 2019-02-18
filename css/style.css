@@ -48,8 +48,9 @@ img:hover {
 
 
 .column {
+  display: fluid;
   
-}
+  }
 
 
 
