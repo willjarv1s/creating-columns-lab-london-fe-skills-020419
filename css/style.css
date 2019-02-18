@@ -55,11 +55,13 @@ img:hover {
 
 .small {
   margin: 0 auto;
+  width: 100%;
 }
 
 
 .med {
   margin: 0 auto;
+  width: 200%;
 }
 
 
